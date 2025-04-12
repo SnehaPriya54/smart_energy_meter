@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-energy-meter-6b162",
+  "private_key_id": "63bad8994852357287c0ae9513bcbdad8061619f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4otZPYWI0/yNS\ns1xhHL116YIt2P0EZy6AMCbqllK9mjhCn1vUSlIQomT37YVXEVj1CS//BTPdG5IH\nh/POPwmPSMljdbTdrGkuPEQ4yZIBUguApOMVDyyxT41+/fiIX+ADl6J4uCfNr+EN\nXx2/cD2Fxt/zSXHbvDoh+9A0hnNMCgxB3Yu31IXdSRVwRY/wU3UME11LDMl4invH\nEvtN//Gn1JXm5Yv9tZn5dJtHuXnNIdhZoeRj8dm/hCoUQczigvRnD1uui2iLVI7m\n/fOBmjt9PET+cF+qIuhXc1gIJXItJh+OG1inbBM2byLLQTzDQVg56T3dRGtiiF5J\nshQVthUXAgMBAAECggEAWErKOAiGKXiugBA0R14yfY3OCjWe/LmIw5UDLx/2biOu\n7rD8/T4TE1BM/0BOiK3Lf9XGZWmr/Pp/sOlC3ehIHoQ8hbrWZEDbxVfdedhuYQJG\nbNysmLf6c8nqjIVPkYtjeORMtfS+V/5YnQfUlmTKjsvk8Ra4g07176VW0Z9PyFaf\nyCBRie/Nwv4nHvaZY4Mzdr9LEbS3J/qms0LlyVncCyptuoJe+EZ4FLkep1SCFn8B\nFKVD12LaVmpOWT15qK1D8+aSbUGfjrt2Sr4yJ/VeiC0UTVCwp0X07GTX+08oo6zE\nM0EtIO3g6zSfnDwXt0sqfvjBP58Jvw0Ioq2G8fIhTQKBgQDbcX0LRQ/zm06ErIYY\nFAAQm+l7zyVDmT0taxvYwfOrIni18ZtoFiQoGzM1MR9X9tfmhAgYkavfzgkSl+Qj\ngmTIiv6hp7NIyh6ZKBCC1BsXsTrLGK1PvX1h7cszUR17liFnS91fIvy6LGzodFzy\nCsnue9XARkCoEYNfk9OJ7mUcqwKBgQDXZPBFna3Hf4750fOKScF39A9ZxVNYdyqE\nxFbDsPHAvD1pL+kpqYg8YfbjzbRBjCyhiSf4igdTTTJeWzLc8EQJLKPn6k+WWxtt\nmRYnPqowPtfbd+DBXgJ0HcOiyKyU26XSb1RoGElhobxx63XwQh7kQAEA0+WledC4\n+B+fPKoRRQKBgBEvFeeoBNPCuadSCz4fctHaI7J6SiS8/zlrRcb3iSlBjcpRnSXN\ndg9d8eicbCPrRITcmfWyko74B2XZVxggwduiZsYp57Qvf63moURdb7GvQzdcO1Yf\nNI5SnLLsCy7+VqdMHY2xo7DAgdbCJfUeOyndsKNZ3P5MQMlfPhVzAZ/5AoGBAKzg\n9jxZ71X1GtOGYLt4sVDO0ddSmq+hjb3cPGt6xL7WF1AqxTDMQm18j4WN4ATQNi49\nAJjqaDDDAA9dkXhlW6YlbzTACrr6SwxvV6mOEVkBx4z+LaXmB4AdN52bBXHAzdoV\nwyB9hcBX6QFiZFm/KD445NU+Pc7P8+fSNsc/EJ0lAoGBAIQmmIvtbyb0h+5x6lnZ\nxJKp0jBikQZO2ioNN9zzdb8DdHOQz94W+DkNFdNJvGFoK14/Rqmx/gSrzmVUyVLW\n+ABgFH8A6qKCQaS9/6G8yK7LmL3BlstbqVLlzHklpiTt+Bfh5d1RuLpsLkBd2KpL\nkD1IZiyUthmGmA7I6Tty6i5m\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@smart-energy-meter-6b162.iam.gserviceaccount.com",
+  "client_id": "112259816251117951733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smart-energy-meter-6b162.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
